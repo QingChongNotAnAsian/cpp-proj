@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Directories used to store the files listed above
+lib/
+bin/
